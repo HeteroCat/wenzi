@@ -1,8 +1,3 @@
-import streamlit as st
-import openai
-
-# 设置 OpenAI API 密钥
-#openai.api_key = "sk-proj-uTr9q7MqN5pTwwxrxV82T3BlbkFJ8GxT4ey4HGy6Lro4cKzn"
 
 
 import openai
